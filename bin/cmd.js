@@ -14,7 +14,7 @@ const argv = yargs(hideBin(process.argv))
         type: 'string',
     })
     .option('apiKey', {
-        describe: 'New Relic Insights query API key',
+        describe: 'New Relic User API key',
         demandOption: !process.env[`${envVarPrefix}API_KEY`],
         type: 'string',
     })

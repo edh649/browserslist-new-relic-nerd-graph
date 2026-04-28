@@ -23,10 +23,10 @@ beforeEach(() => {
     };
 
     getQueryResults.mockResolvedValue({
-        totalResult: { results: [{ count: 100 }] },
-        facets: [
-            { name: ['Chrome', '86', 'Desktop'], results: [{ count: 25 }] },
-            { name: ['Chrome', '84', 'Desktop'], results: [{ count: 75 }] },
+        totalResult: { count: 100 },
+        results: [
+            { facet: ['Chrome', '86', 'Desktop'], count: 25 },
+            { facet: ['Chrome', '84', 'Desktop'], count: 75 },
         ],
     });
 });
