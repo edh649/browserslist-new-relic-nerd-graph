@@ -1,8 +1,10 @@
-# browserslist-new-relic
+# browserslist-new-relic-nerd-graph
 
 A CLI tool that generates a [custom usage data](https://github.com/browserslist/browserslist#custom-usage-data) file for
 [Browserslist](https://github.com/browserslist/browserslist) from your
 [New Relic Browser](https://newrelic.com/products/browser-monitoring) data.
+
+Forked off of [syntactic-salts's browserslist-new-relic](https://github.com/syntactic-salt/browserslist-new-relic)
 
 [![npm package][npm-badge]][npm-link]
 [![total downloads][downloads-badge]][downloads-link]
