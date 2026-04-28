@@ -2,11 +2,11 @@
 .idea/
 
 # dependencies
-./node_modules/
+node_modules/
 
 # test
 coverage/
 browserslist-stats.json
 
 # build
-./dist/
+dist/
