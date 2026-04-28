@@ -1,6 +1,6 @@
 {
-  "name": "browserslist-new-relic",
-  "version": "2.0.0",
+  "name": "browserslist-new-relic-nerd-grpah",
+  "version": "1.0.0",
   "description": "Generate a custom usage data file for Browserslist from your New Relic Browser data.",
   "engines": {
     "node": ">=14.0.0"
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syntactic-salt/browserslist-new-relic.git"
+    "url": "git+https://github.com/edh649/browserslist-new-relic-nerd-graph.git"
   },
   "keywords": [
     "browsers",
@@ -34,9 +34,9 @@
   "author": "Ken Pereira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/syntactic-salt/browserslist-new-relic/issues"
+    "url": "https://github.com/edh649/browserslist-new-relic-nerd-graph/issues"
   },
-  "homepage": "https://github.com/syntactic-salt/browserslist-new-relic#readme",
+  "homepage": "https://github.com/edh649/browserslist-new-relic-nerd-graph#readme",
   "dependencies": {
     "yargs": "17.5.1"
   },
