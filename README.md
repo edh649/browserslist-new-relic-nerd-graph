@@ -148,20 +148,20 @@ browserslist-new-relic --debug --appId 48927374561 --accountId 45182429 --apiKey
 
 Please report any issues on [GitHub](https://github.com/syntactic-salt/browserslist-new-relic/issues).
 
-[npm-badge]: https://badgen.net/npm/v/browserslist-new-relic?color=blue&icon=npm&cache=300&label=package
-[npm-link]: https://www.npmjs.com/package/browserslist-new-relic
+[npm-badge]: https://badgen.net/npm/v/browserslist-new-relic-nerd-graph?color=blue&icon=npm&cache=300&label=package
+[npm-link]: https://www.npmjs.com/package/browserslist-new-relic-nerd-graph
 
-[node-badge]: https://badgen.net/npm/node/browserslist-new-relic?color=blue&cache=300
-[node-link]: https://github.com/syntactic-salt/browserslist-new-relic/blob/master/package.json
+[node-badge]: https://badgen.net/npm/node/browserslist-new-relic-nerd-graph?color=blue&cache=300
+[node-link]: https://github.com/edh649/browserslist-new-relic-nerd-graph/blob/master/package.json
 
-[downloads-badge]: https://badgen.net/npm/dt/browserslist-new-relic?color=blue&icon=npm&cache=300
-[downloads-link]: https://www.npmjs.com/package/browserslist-new-relic
+[downloads-badge]: https://badgen.net/npm/dt/browserslist-new-relic-nerd-graph?color=blue&icon=npm&cache=300
+[downloads-link]: https://www.npmjs.com/package/browserslist-new-relic-nerd-graph
 
-[license-badge]: https://badgen.net/github/license/syntactic-salt/browserslist-new-relic?color=blue&cache=300
-[license-link]: https://github.com/syntactic-salt/browserslist-new-relic/blob/master/LICENSE
+[license-badge]: https://badgen.net/github/license/syntactic-salt/browserslist-new-relic-nerd-graph?color=blue&cache=300
+[license-link]: https://github.com/edh649/browserslist-new-relic-nerd-graph/blob/master/LICENSE
 
-[issues-badge]: https://badgen.net/github/open-issues/syntactic-salt/browserslist-new-relic?icon=github&cache=300
-[issues-link]: https://github.com/syntactic-salt/browserslist-new-relic/issues
+[issues-badge]: https://badgen.net/github/open-issues/syntactic-salt/browserslist-new-relic-nerd-graph?icon=github&cache=300
+[issues-link]: https://github.com/edh649/browserslist-new-relic-nerd-graph/issues
 
-[tests-badge]: https://github.com/syntactic-salt/browserslist-new-relic/actions/workflows/test.yml/badge.svg
-[tests-link]: https://github.com/syntactic-salt/browserslist-new-relic/actions/workflows/test.yml
+[tests-badge]: https://github.com/edh649/browserslist-new-relic-nerd-graph/actions/workflows/test.yml/badge.svg
+[tests-link]: https://github.com/edh649/browserslist-new-relic-nerd-graph/actions/workflows/test.yml
