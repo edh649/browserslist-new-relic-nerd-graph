@@ -18,7 +18,7 @@ Before you can run the command you'll need to prepare the following information:
 
 - New Relic Browser application ID
 - New Relic account ID
-- New Relic Insights query API key
+- New Relic User API key
 
 Check out the [Options](#options) section for specific details.
 
@@ -46,7 +46,7 @@ or
 ```
 --version    Show version number                                     [boolean]
 --accountId  New Relic account ID                          [string] [required]
---apiKey     New Relic Insights query API key              [string] [required]
+--apiKey     New Relic User API key                        [string] [required]
 --appId      New Relic Browser application ID              [string] [required]
 --debug      Turn on debugging output               [boolean] [default: false]
 --duration   Days of browser usage to fetch              [number] [default: 7]
@@ -66,8 +66,8 @@ check the New Relic docs.
 
 ### `--apiKey`
 
-A New Relic Insights query API key. For information on
-[creating a query API key](https://docs.newrelic.com/docs/insights/insights-api/get-data/query-insights-event-data-api),
+A New Relic User API key. For information on
+[creating a User API key](https://docs.newrelic.com/docs/apis/intro-apis/new-relic-api-keys/#user-key),
 check the New Relic docs.
 
 - **Default:** None
